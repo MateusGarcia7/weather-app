@@ -1,0 +1,58 @@
+body{
+    background-image: url(https://eskipaper.com/images/weather-wallpaper-1.jpg);
+}
+.card{
+    margin-top: 30px;
+    background: transparent;
+    border: 2px solid blueviolet;
+   max-width: 500px;
+   height: 600px;
+   text-align: center;
+   margin-left: 450px;
+   border-radius: 20px;
+   box-shadow: 60px solid black;
+
+}
+
+.Icon{
+    width: 200px;
+    margin-right: 500px;
+    
+}
+.tittle{
+    color: blueviolet;
+}
+.subtittle{
+    color: aqua;
+}
+h3{
+    color: aqua;
+}
+.description{
+    margin-left: 150px;
+}
+h2{
+    color: aqua;
+    
+}
+ul{
+    margin-top: -250px;
+    margin-left: 150px;
+}
+p{
+    color: rgb(111, 13, 202);
+    margin-left: -320px;
+    margin-top: -20px;
+    font-size: 1.7em;
+}
+span{
+    color: black;
+}
+button{
+    width: 200px;
+    font-size: 1.5em;
+    background: rgb(130, 6, 247);
+    border-radius: 10px;
+    color: solid black;
+    
+}
